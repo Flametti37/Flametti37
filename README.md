@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Flametti37
 - 👀 I’m interested in Network Engineering
-- 🌱 I’m currently learning about Wi-Fi
+- 🌱 I’m currently learning about Enterprise and Data Center Network Design
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me ... Linkedin!
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Fun things are fun
 
